@@ -60,6 +60,8 @@ endmodule
 
 
 **RTL LOGIC UP COUNTER**
+
+
 ![11 1](https://github.com/vaishnavidevi23013992/SYNCHRONOUS-UP-COUNTER/assets/151864235/19bacd38-1720-4700-98a5-fd490eacd721)
 
 
@@ -68,7 +70,10 @@ endmodule
 ![11 2](https://github.com/vaishnavidevi23013992/SYNCHRONOUS-UP-COUNTER/assets/151864235/a81e2f7a-4e00-48ec-b3fd-abd540885930)
 
 **TRUTH TABLE**
+
+
 ![11 3](https://github.com/vaishnavidevi23013992/SYNCHRONOUS-UP-COUNTER/assets/151864235/2caefd5c-c7a8-4111-bf03-469ddcefc70f)
 
 **RESULTS**
+
 Hence a 4 bit synchronous up counter is implemented correctly
