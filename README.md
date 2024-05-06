@@ -38,11 +38,11 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 5.Repeat steps 2-4 for each bit you want to input and shift
 
 ## PROGRAM
-
+ Program for flipflops and verify its truth table in quartus using Verilog programming. 
 **Developed by:VAISHNAVIDEVI V**
 
 **RegisterNumber:212223040230**
- Program for flipflops and verify its truth table in quartus using Verilog programming. 
+
 ```
 module ex11(out,clk,rstn);
 input clk,rstn;
